@@ -89,8 +89,3 @@ Note: Browsers often block autoplay. Use the Play button to grant audio permissi
 - Performance:
   - Reduce particle counts or text meshes in assets/heart.js.
   - Lower renderer pixelRatio or disable shadows for older devices.
-
-## License
-This project is licensed under the Apache License 2.0. See the license file in this folder.
-
-## Made By Pinak Kundu
